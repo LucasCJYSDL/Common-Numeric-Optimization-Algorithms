@@ -1,0 +1,17 @@
+n_list = [100];
+
+for i = 1:length(n_list)
+    n = n_list(i);
+    bubble_time = 0.0;
+    merge_time = 0.0;
+    for j = 1:5
+        rand_list = rand([1, n]) * 100.0;
+        bubble_start = cputime;
+        bubble_sort(rand_list);
+        bubble_time = bubble_time + (cputime - bubble_start);
+
+        merge_start = cputime;
+        merge_sort(rand_list);
+        merge_time = merge_time + (cputime)
+    end
+end
