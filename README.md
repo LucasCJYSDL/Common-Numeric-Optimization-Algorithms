@@ -8,4 +8,5 @@ Justified matlab implementation of common numeric optimization algorithms:
 - Conjugate Gradient Method
 - Homotopy Method
 - Active Set Method
+- Gradient Mapping Method for Minmax problems
 - ...
