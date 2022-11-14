@@ -1,4 +1,4 @@
-# Common-Numeric-Optimization-Algorithms
+# Common Numeric Optimization Algorithms
 Justified matlab implementation of common numeric optimization algorithms:
 - Newton Method
 - Quasi-Newton Method, including BFGS, SR1
