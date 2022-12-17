@@ -1,4 +1,9 @@
 # Common Numeric Optimization Algorithms
+
+Codebase for projects of IE 538 (Nonlinear Optimization) and IE 561 (Convex Optimization) at Purdue University.
+
+Language: MATLAB
+
 Justified matlab implementation of common numeric optimization algorithms:
 - Newton Method
 - Quasi-Newton Method, including BFGS, SR1
